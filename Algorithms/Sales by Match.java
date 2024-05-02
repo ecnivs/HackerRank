@@ -1,4 +1,3 @@
-
 // Sales by Match
 import java.util.Scanner;
 
