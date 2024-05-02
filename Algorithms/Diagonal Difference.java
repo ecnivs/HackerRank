@@ -1,3 +1,4 @@
+
 // Diagonal Difference
 import java.util.Scanner;
 
