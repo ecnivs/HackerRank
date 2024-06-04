@@ -1,8 +1,9 @@
+
 // Mini-Max Sum
 import java.util.Scanner;
 import java.util.Arrays;
 
-public class minimax {
+public class Solution {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         long min = 0, max = 0;

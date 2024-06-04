@@ -1,7 +1,8 @@
+
 // Breaking the Records
 import java.util.Scanner;
 
-public class breakingrecords {
+public class Solution {
 
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);

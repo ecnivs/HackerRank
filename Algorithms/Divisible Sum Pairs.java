@@ -1,7 +1,8 @@
+
 // Divisible Sum Pairs
 import java.util.Scanner;
 
-public class divsumpairs {
+public class Solution {
 
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
