@@ -5,8 +5,7 @@ def is_divisor(n, d):
 n = int(input())
 nl = []
 for i in range(n):
-    num = int(input())
-    nl.append(num)
+    num = nl.append(int(input()))
 
 for num in nl:
     digits = [int(digit) for digit in str(num)]
