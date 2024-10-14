@@ -1,3 +1,4 @@
+# Find Digits
 def is_divisor(n, d):
     return d != 0 and n % d == 0
 
