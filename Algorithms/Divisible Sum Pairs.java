@@ -1,4 +1,3 @@
-
 // Divisible Sum Pairs
 import java.util.Scanner;
 

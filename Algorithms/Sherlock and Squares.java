@@ -1,4 +1,3 @@
-
 // Sherlock and Squares
 import java.util.Scanner;
 

@@ -1,4 +1,3 @@
-
 // Breaking the Records
 import java.util.Scanner;
 

@@ -1,4 +1,3 @@
-
 // Mini-Max Sum
 import java.util.Scanner;
 import java.util.Arrays;

@@ -1,4 +1,3 @@
-
 // Day of the Programmer
 import java.util.Scanner;
 
