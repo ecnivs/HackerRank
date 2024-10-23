@@ -15,6 +15,7 @@ if __name__ == '__main__':
         m = int(input().strip())
         n = int(input().strip())
         arr = list(map(int, input().rstrip().split()))
+
         result = icecreamParlor(m, arr)
 
         fptr.write(' '.join(map(str, result)))
