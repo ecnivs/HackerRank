@@ -4,7 +4,6 @@
 int main() {
     int a, b;
     scanf("%d\n%d", &a, &b);
-     // Complete the code.
     for (int i=a; i<b+1; i++) {
         switch(i) {
             case 1: printf("one\n"); break;

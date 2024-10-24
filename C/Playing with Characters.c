@@ -8,7 +8,6 @@ int main()
     scanf("%s", &s);
     scanf(" %[^\n]%*c", &sen);
     printf("%c\n%s\n%s",ch,s,sen);
-
     return 0;
 }
 
